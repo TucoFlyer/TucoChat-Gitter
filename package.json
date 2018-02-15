@@ -1,0 +1,17 @@
+{
+  "name": "TucoChat-Gitter",
+  "version": "1.0.0",
+  "description": "TucoFlyer chat daemon for Gitter.",
+  "main": "index.js",
+  "repository": "https://github.com/TucoFlyer/TucoChat-Gitter",
+  "author": "skiilaa",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "chalk": "^2.3.1",
+    "deasync": "^0.1.12",
+    "node-gitter": "^2.1.0",
+    "request": "^2.83.0",
+    "websocket": "^1.0.25"
+  }
+}
