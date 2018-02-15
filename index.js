@@ -1,6 +1,5 @@
 var fs = require('fs');
 var url = require('url');
-var readline = require('readline');
 
 var chalk = require('chalk'); // colored text
 var deasync = require('deasync'); // de-async-ifyer
